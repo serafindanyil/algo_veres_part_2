@@ -5,7 +5,7 @@ Function 'find_biggest_element'
 
 def find_biggest_element(array, k: int):
     """
-    selection_sort
+    selection_sort algo
     """
 
     max_index = 0
